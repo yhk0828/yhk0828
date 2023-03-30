@@ -1,4 +1,4 @@
-### 안녕하세요~~ 1년차 개발자 양민우입니다.
+### 안녕하세요~~ 신입 개발자 양민우입니다.
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -45,6 +45,5 @@ java를 사용해 CRUD를 구축한 앱을 팀프로젝트로 만들어본적 �
 SQL에 대해 기본적인 이해를 하고 있습니다.<br>
 java와 연동하여 간단한 DB를 저장할 수 있습니다.
 
-<h3>Node.js & REACT</h3>
-node.js와 react에 대해 기본적인 이해를 하고 있습니다.<br>
-node.js와 react를 이용한 간단한 앱을 만들어본적 있습니다.
+<h3>REACT</h3>
+react에 대해 기본적인 이해를 하고 있습니다.<br>
