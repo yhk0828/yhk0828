@@ -27,7 +27,7 @@
 
 <h3>REACT + JS</h3>
 react.js에 대해 기본적인 이해를 하고 있습니다.<br>
-hook, TypeScript, api, firebase 를 사용하여 프로젝트 만든 경험이 있습니다.
+hook, TypeScript, api, firebase 를 사용하여 프로젝트를 만든 경험이 있습니다.
 
 
 <h3>JAVA</h3>
