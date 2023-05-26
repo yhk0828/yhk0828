@@ -24,11 +24,7 @@ react.js에 대해 기본적인 이해를 하고 있습니다.<br>
 hook, TypeScript, api, firebase 를 사용하여 프로젝트를 만든 경험이 있습니다.
 
 
-<h3>JAVA</h3>
-corejava를 사용해 CRUD를 구축한 앱을 팀프로젝트로 만들어본적 있습니다.
-
-<h3>SQL</h3>
-SQL에 대해 기본적인 이해를 하고 있습니다.<br>
-java와 연동하여 간단한 DB를 저장할 수 있습니다.
+<h3>TypeScript</h3>
+typescript에 대해 기본적인 이해를 하고 있습니다.<br>
 
 
