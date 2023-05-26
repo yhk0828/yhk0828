@@ -24,6 +24,6 @@ hook, TypeScript, api, firebase 를 사용하여 프로젝트를 만든 경험�
 
 
 <h3>TypeScript</h3>
-typescript에 대해 기본적인 이해를 하고 있습니다.<br>
+typescript와 API를 이용하여 프로젝트를 만든 경험이 있습니다.<br>
 
 
